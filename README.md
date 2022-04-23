@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there ,I'm ABAZAR RAHMA 👋
 
-<!--
-**Abazer22/Abazer22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on EMAS company 
+- 🌱 I’m currently learning splunk
+- 👯 I’m always down to collaborate on new ideas with other creators.
+- 💬 Ask me about anything if you're curious
+- 📫 How to reach me: call me or email me (abazer22@gmail.com)
+
+
+
+
